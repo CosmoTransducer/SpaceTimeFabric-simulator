@@ -8,7 +8,8 @@ in simple words mass and energy tell spacetime how to curve, and curved spacetim
 higher the mass or higher the concentrated energy --> bigger the curve is --> means more stronger gravitational force of that object is
 
 # key requirements 
-- i need to simulate mass and energy and how the object around other object behaves
-- need to simulate the time too , which depends on fabric curve 
+- i need to simulate mass and energy 
+- need to simulate how the object around other object behaves (relativity) 
+- need to simulate the time too, which depends on how intense space-time fabric curve is  
 - key understanding of python libs
-- crystal clear understanding of general theory of relativity
+- clear understanding of general theory of relativity
