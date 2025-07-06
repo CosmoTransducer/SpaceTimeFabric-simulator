@@ -27,7 +27,7 @@ higher the mass or higher the concentrated energy --> stronger and bigger the cu
 ### > basic comman approach
 1. **Create a 2D grid** to represent space `(X, Y)`.
 2. Add **mass at the center** (or any point).
-3. Use a **gravitational potential function** to warp the grid: ```Z(x, y) = - (G * M) / sqrt((x - x0)^2 + (y - y0)^2 + ε)```
+3. Use a **gravitational potential function** to warp the grid: ```Z(x, y) = -(G * M) / sqrt((x - x0)^2 + (y - y0)^2 + ε)```
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/0031a818-8d28-4e80-8bb3-8a4fa2423a48" alt="fabric" width="300"/>
