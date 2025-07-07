@@ -48,3 +48,5 @@ higher the mass or higher the concentrated energy --> stronger and bigger the cu
 ```bash
 pip install numpy matplotlib 
 ```
+
+
