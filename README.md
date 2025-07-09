@@ -1,12 +1,15 @@
-<h1 align="center"> 🌀 SpaceTimeFabric-simulator </h1>
+<h1 align="center">SpaceTimeFabric-simulator</h1>
+
+
 
 <div style="display: flex; align-items: flex-start; gap: 20px;">
   <div style="flex: 2;">
     Visualization of how mass warps spacetime, inspired by Einstein's General Theory of Relativity —  
     explained using the classic "rubber sheet" analogy and simulated in Python using `matplotlib`.
+  </div>
 </div>
   
-<br/>
+  <br/>
 <div>  
   <div style="flex: 1;">
     <img src="https://github.com/user-attachments/assets/612d0a63-2c65-4b07-909e-79b44b3d0340" alt="space-time fabric" width="100%" style="border-radius: 12px; box-shadow: 0 0 10px rgba(0,0,0,0.2);" />
@@ -62,4 +65,11 @@ pip install numpy matplotlib
 
 
 ---
+
+
+<p align="center">
+  <a href="https://github.com/dhairyajangir" target="_blank" rel="noopener noreferrer">
+    <img src="https://github.com/user-attachments/assets/d7d09299-1286-43b9-a59e-42825105f7a9" alt="spiral" width="150"/>
+  </a>
+</p>
 
