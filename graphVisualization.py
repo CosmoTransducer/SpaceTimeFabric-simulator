@@ -36,7 +36,7 @@ ax.set_xlabel('X space')
 ax.set_ylabel('Y space')
 ax.set_zlabel('Spacetime Curvature')
 
-# Optional: color bar to indicate curvature intensity
+# color bar to indicate curvature intensity
 fig.colorbar(surface, shrink=0.5, aspect=10, label='Warp Depth (Time Dilation)')
 
 plt.show()
