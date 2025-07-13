@@ -2,6 +2,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 from mpl_toolkits.mplot3d import Axes3D
 
+
 # Parameters
 G = 1.0            # Gravitational constant 
 M = 10.0           # Mass value
@@ -38,5 +39,6 @@ ax.set_zlabel('Spacetime Curvature')
 
 # color bar to indicate curvature intensity
 fig.colorbar(surface, shrink=0.5, aspect=10, label='Warp Depth (Time Dilation)')
+
 
 plt.show()
